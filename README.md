@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá meu nome é Jonhnson sousa
 
-<!--
-**jonhnsonsousa/jonhnsonsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atualmente moro em portugal
+- Tenho 31 anos
+- Estou iniciando na área de TI
+- Estudo Html / Css / Java
+- Tenho um desafio de conseguir um primeiro emprego em 2025!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhnsonsousa&theme=dark&show_icons=true)
+
+<div> 
+ 
+  <a href="https://instagram.com/jonhnsonbjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "jonhnsons@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonhnsonsousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
